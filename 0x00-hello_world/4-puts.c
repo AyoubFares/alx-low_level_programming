@@ -1,4 +1,4 @@
- #include<stdio.h>;
+ #include<stdio.h>
 /* A c program that puts */
 
 int main(void)
