@@ -1,8 +1,7 @@
 #include <stdio.h>
+
 /**
- * main - entry point
- *
- * description: print all alphabet
+ * main - Prints the alphabet
  *
  * return: Always 0 (Success)
 */
