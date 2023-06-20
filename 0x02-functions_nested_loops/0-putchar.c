@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Main - entry point
+ * main - entry point
  *
  * Description: a c program that prints
  *
@@ -11,4 +11,4 @@ int main(void)
 {
 	printf("_putchar\n");
 	return (0);
-
+}
