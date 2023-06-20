@@ -9,8 +9,12 @@
 
 int main(void)
 {
-	char name[14];
 
-		putchar("_putchar\n");
+	char name[] = "_putchar";
+	int ch;
+
+	for (ch = 0; ch < 8; ch++)
+		_putchar(name[ch]\n);
+
 	return (0);
 }
